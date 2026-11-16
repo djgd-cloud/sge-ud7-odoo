@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <!-- Icono: hexágono con engranaje y circuito -->
+  <polygon points="200,60 277.9,105 277.9,195 200,240 122.1,195 122.1,105" fill="#0B3C5D"/>
+  <polyline points="122.1,150 160,150 170,135 185,135" fill="none" stroke="#2EC4B6" stroke-width="6" stroke-linecap="round"/>
+  <polyline points="277.9,150 240,150 230,165 215,165" fill="none" stroke="#2EC4B6" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="200" cy="150" r="42" fill="none" stroke="#2EC4B6" stroke-width="14" stroke-dasharray="12 8"/>
+  <circle cx="200" cy="150" r="18" fill="#2EC4B6"/>
+  <!-- Nombre de la empresa -->
+  <text x="200" y="312" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="bold" fill="#0B3C5D" text-anchor="middle">Elditron</text>
+  <!-- Eslogan -->
+  <text x="200" y="345" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#2EC4B6" text-anchor="middle" letter-spacing="1">Mantenimiento informático</text>
+</svg>
